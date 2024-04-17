@@ -1,0 +1,7 @@
+Nombre: Camila
+Apellido: Rodriguez
+Altura: 1.62
+Edad: 21
+Peso: 52
+color-Preferido: Negro
+d.n.i: 43905554
